@@ -1,0 +1,17 @@
+.at-your-service{
+    background-color: white;
+    text-align: center;
+}
+p{
+    color: #6c757d;
+}
+.Service{
+    display: inline-block;
+    width: 20%;
+    
+    height: fit-content;
+}
+i{
+    color: #f4623a;
+    
+}
